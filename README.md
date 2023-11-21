@@ -1,2 +1,2 @@
 # roblox-wfc
- Wave Function Collapse Algorithm in Roblox
+ WFC (Wave Function Collapse) Algorithm implemented in Roblox
